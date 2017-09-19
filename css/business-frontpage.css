@@ -1,0 +1,61 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (http://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+
+ /*
+ COLORS:
+ lightpink: #F0433A;
+
+ */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.business-header {
+    height: 50vh;
+    min-height: 500px;
+    background: url('../img/jumbo2.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.card {
+    height: 100%;
+}
+
+.display-3 {
+    font-size: 5.5em;
+    text-shadow: 2px 2px 1px #F0433A;
+}
+
+#lead {
+    color: #000;
+    text-shadow: 1px 1px 1px #fff;
+
+}
+
+.btn {
+    border-color: #F0433A;
+    background-color: #F0433A;
+}
+
+.btn:hover {
+     border-color: teal;
+    background-color: teal;
+
+}
+footer {
+    clear: both;
+}
